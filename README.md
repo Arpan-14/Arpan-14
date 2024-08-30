@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arpan-14
-- 👀 My skills are:- Machine Learning || Deep Learning || OpenCV || CNN Model ||.
+- 👀 My skills are:- Machine Learning || Deep Learning || OpenCV || CNN Model ||
 - 🌱 I’m currently learning applied Artificial Intelligence.
 - 💞️ I’m looking to collaborate on projects related to Machine Learning and Data Science.
 - 📫 How to reach me via linkedin: https://www.linkedin.com/in/arpan-tamrakar
